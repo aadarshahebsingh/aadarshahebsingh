@@ -7,8 +7,9 @@
 
 ---
 
-### 🚀 About Me
-- 🎓 Pre-final year B.Tech CSE @ **RVSCET, Jamshedpur**
+<h2 align="center">🚀 About Me</h2>
+
+- 🎓 Pre-final year B.Tech CSE @ **R.V.S College of Engineering and Technology, Jamshedpur, Jharkhand, India**
 - 🧠 Building: **Doctor Saathi** – A full-stack healthcare system for doctors & patients  
 - 💬 Ask me about: Web Dev, AI, DSA, React, Tailwind, Hackathons
 - 🏆 3x Hackathon Winner (2 Dev + 1 DSA)
@@ -17,9 +18,9 @@
 
 ---
 
-### 🛠️ Tech Stack
+<h2 align="center">🛠️ Tech Stack</h2>
 
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" />
@@ -33,7 +34,7 @@
 
 ---
 
-### 🏆 GitHub Trophies
+<h2 align="center">🏆 GitHub Trophies</h2>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=aadarshahebsingh&theme=gruvbox&column=7&margin-w=10&no-bg=true" />
@@ -41,7 +42,7 @@
 
 ---
 
-### 📈 GitHub Stats
+<h2 align="center">📈 GitHub Stats</h2>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=aadarshahebsingh&show_icons=true&theme=radical" height="150" />
@@ -54,33 +55,10 @@
 
 ---
 
-### 🧠 LeetCode Info
 
----
-
-### 🧠 LeetCode Trophies
+<h2 align="center">🌐 Connect With Me</h2>
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/aadarshaheb_singh?theme=unicorn&font=baloo&ext=contest" alt="LeetCode Trophy Card" />
-</p>
-
-
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/aadarshaheb_singh?theme=unicorn&font=baloo&ext=contest" alt="LeetCode Stats Card" />
-</p>
----
-### 📌 Pinned Projects
-
-- [Doctor Saathi – Full-stack Healthcare System](https://github.com/aadarshahebsingh/doctor-saathi)
-- [Pokémon Data Explorer](https://github.com/aadarshahebsingh/pokemon-explorer)
-- [Faculty Review System](https://github.com/aadarshahebsingh/faculty-review-system)
-- [Codeforces Helper](https://github.com/aadarshahebsingh/codeforces-helper)
-
----
-
-### 🌐 Connect With Me
-
-<p>
   <a href="mailto:aadarshshahebsingh@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
@@ -91,5 +69,8 @@
 
 ---
 
-⭐ **Star** your favorite repos if you like my work!  
+<p align="center">
+⭐ <strong>Star</strong> your favorite repos if you like my work!  
+<br />
 💬 Let's collaborate on exciting full-stack or AI projects!
+</p>
