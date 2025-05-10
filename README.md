@@ -54,6 +54,18 @@
 
 ---
 
+### 🧠 LeetCode Info
+
+<p align="center">
+  <a href="https://leetcode.com/u/aadarshaheb_singh/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-Aadarsh_Shaheb_Singh-orange?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Badge"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/aadarshaheb_singh?theme=unicorn&font=baloo&ext=contest" alt="LeetCode Stats Card" />
+</p>
+---
 ### 📌 Pinned Projects
 
 - [Doctor Saathi – Full-stack Healthcare System](https://github.com/aadarshahebsingh/doctor-saathi)
