@@ -62,9 +62,10 @@
   <a href="mailto:aadarshshahebsingh@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="www.linkedin.com/in/aadarsh-shaheb-singh-b82b30245" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
+  <a href="https://www.linkedin.com/in/aadarsh-shaheb-singh-b82b30245" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+</a>
+
 </p>
 
 ---
