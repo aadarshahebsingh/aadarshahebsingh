@@ -12,7 +12,7 @@
 - 🎓 Pre-final year B.Tech CSE @ **R.V.S College of Engineering and Technology, Jamshedpur, Jharkhand, India**
 - 🧠 Building: **Doctor Saathi** – A full-stack healthcare system for doctors & patients  
 - 💬 Ask me about: Web Dev, AI, DSA, React, Tailwind, Hackathons
-- 🏆 3x Hackathon Winner (2 Dev + 1 DSA)
+- 🏆 4x Hackathon Winner (2 Dev + 2 DSA)
 - 🧑‍💻 Strong on **LeetCode (1800+)** & **Codeforces (Expert)**
 - ✉️ Reach me at: [aadarshshahebsingh@gmail.com](mailto:aadarshshahebsingh@gmail.com)
 
