@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aadarsh Shaheb Singh</h1>
-<h3 align="center">Full Stack Developer | AI Enthusiast | 3x Hackathon Winner</h3>
+<h3 align="center">Full Stack Developer | AI Enthusiast | 4x Hackathon Winner</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Full+Stack+Web+Developer;AI+%2B+ML+Enthusiast;Codeforces+Expert;Open+Source+Contributor;3rd+Year+CSE+Student" />
@@ -13,7 +13,7 @@
 - 🧠 Building: **Doctor Saathi** – A full-stack healthcare system for doctors & patients  
 - 💬 Ask me about: Web Dev, AI, DSA, React, Tailwind, Hackathons
 - 🏆 4x Hackathon Winner (2 Dev + 2 DSA)
-- 🧑‍💻 Strong on **LeetCode (1800+)** & **Codeforces (Expert)**
+- 🧑‍💻 Strong on **LeetCode (1600+)** & **Codeforces (Expert)**
 - ✉️ Reach me at: [aadarshshahebsingh@gmail.com](mailto:aadarshshahebsingh@gmail.com)
 
 ---
